@@ -29,7 +29,7 @@ export default function Header({ darkMode, setDarkMode }) {
   };
 
   return (
-    <header className="border-b border-gray-200 fixed top-0 bg bg-white dark:bg-slate-900 w-full shadow-lg                                                                                                                           ">
+    <header className="border-b border-gray-200 bg bg-white dark:bg-slate-900                                                                                                                        ">
       <nav className="flex flex-wrap h-auto sm:h-20 justify-start items-center px-3 py-2 sm:py-0">
         <div className="w-full flex  justify-start sm:justify-around sm:w-1/5">
           <div
